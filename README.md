@@ -1,0 +1,109 @@
+#EXTM3U
+
+# --- USA MOVIES ---
+#EXTINF:-1 group-title="USA Movies", HBO
+http://23.237.104.106:8080/USA_HBO/index.m3u8
+#EXTINF:-1 group-title="USA Movies", HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
+#EXTINF:-1 group-title="USA Movies", HBO Comedy
+http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="USA Movies", HBO Signature
+http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 group-title="USA Movies", HBO Family
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="USA Movies", HBO Zone
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 group-title="USA Movies", Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:-1 group-title="USA Movies", MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="USA Movies", 5StarMax
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 group-title="USA Movies", AMC
+http://23.237.104.106:8080/USA_AMC/index.m3u8
+#EXTINF:-1 group-title="USA Movies", IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+# --- USA SPORTS ---
+#EXTINF:-1 group-title="USA Sports", ESPN
+http://23.237.104.106:8080/USA_ESPN/index.m3u8
+#EXTINF:-1 group-title="USA Sports", ESPN 2
+http://23.237.104.106:8080/USA_ESPN2/index.m3u8
+#EXTINF:-1 group-title="USA Sports", ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="USA Sports", ESPN News
+http://23.237.104.106:8080/USA_ESPNNEWS/index.m3u8
+#EXTINF:-1 group-title="USA Sports", Fox Sports 1
+http://23.237.104.106:8080/USA_FOX_SPORTS/index.m3u8
+#EXTINF:-1 group-title="USA Sports", FS2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 group-title="USA Sports", beIN Sports
+http://23.237.104.106:8080/USA_BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="USA Sports", CBS Sports
+http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8
+#EXTINF:-1 group-title="USA Sports", Big Ten Network
+http://23.237.104.106:8080/USA_BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Sports", NHL Network
+http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Sports", YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+# --- USA ENTERTAINMENT ---
+#EXTINF:-1 group-title="USA Entertainment", ABC
+http://23.237.104.106:8080/USA_ABC/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", CBS
+http://23.237.104.106:8080/USA_CBS/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", NBC
+http://23.237.104.106:8080/USA_NBC/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", FOX
+http://23.237.104.106:8080/USA_FOX/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", TNT
+http://23.237.104.106:8080/USA_TNT/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", TBS
+http://23.237.104.106:8080/USA_TBS/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", USA Network
+http://23.237.104.106:8080/USA_USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", Paramount
+http://23.237.104.106:8080/USA_PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", SyFy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="USA Entertainment", Hallmark
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+
+# --- USA KIDS ---
+#EXTINF:-1 group-title="USA Kids", Disney Channel
+http://23.237.104.106:8080/USA_DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="USA Kids", Disney Junior
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 group-title="USA Kids", Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="USA Kids", Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Kids", Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="USA Kids", Nick Jr
+http://23.237.104.106:8080/USA_NICKJR/index.m3u8
+#EXTINF:-1 group-title="USA Kids", PBS Kids
+http://23.237.104.106:8080/USA_PBS_KIDS/index.m3u8
+
+# --- USA DOCUMENTARY & LIFESTYLE ---
+#EXTINF:-1 group-title="USA Documentary", Discovery
+http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+#EXTINF:-1 group-title="USA Documentary", Science Channel
+http://23.237.104.106:8080/USA_SCIENCE/index.m3u8
+#EXTINF:-1 group-title="USA Documentary", History Channel
+http://23.237.104.106:8080/USA_HISTORY/index.m3u8
+#EXTINF:-1 group-title="USA Documentary", National Geographic
+http://23.237.104.106:8080/USA_NATIONAL_GEOGRAPHIC/index.m3u8
+#EXTINF:-1 group-title="USA Documentary", Animal Planet
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 group-title="USA Documentary", Food Network
+http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA Documentary", HGTV
+http://23.237.104.106:8080/USA_HGTV/index.m3u8
