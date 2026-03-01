@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png" group-title="Sports", STAR SPORTS 1 HD
+http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", STAR SPORTS 1 (SD/ALT)
+http://103.158.133.62:8080/starsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_1.png" group-title="Sports", T SPORTS HD
+http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", T SPORTS (ALT)
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_92.png" group-title="Sports", PTV SPORTS HD
+http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", WILLOW TV
+http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", ESPN PREMIUM
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 group-title="Sports", TNT SPORTS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_54.png" group-title="Entertainment", NAGORIK TV
+http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment", SONY AATH
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment", STAR JALSHA HD
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 group-title="Entertainment", COLORS BANGLA HD
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+#EXTINF:-1 group-title="Movies", JALSHA MOVIES
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
+#EXTINF:-1 group-title="Movies", COLORS CINEPLEX
+http://198.195.239.50:8095/ColorsCineplex/index.m3u8
+#EXTINF:-1 group-title="Movies", COLORS BANGLA CINEMA
+http://198.195.239.50:8095/ColorsBanglaChinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News", NEWS 24
+http://198.195.239.50:8095/News24/tracks-v1a1/mono.m3u8
