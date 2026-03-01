@@ -1,6 +1,4 @@
 #EXTM3U
-
-# --- USA MOVIES ---
 #EXTINF:-1 group-title="USA Movies", HBO
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="USA Movies", HBO 2
@@ -23,8 +21,6 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://23.237.104.106:8080/USA_AMC/index.m3u8
 #EXTINF:-1 group-title="USA Movies", IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
-
-# --- USA SPORTS ---
 #EXTINF:-1 group-title="USA Sports", ESPN
 http://23.237.104.106:8080/USA_ESPN/index.m3u8
 #EXTINF:-1 group-title="USA Sports", ESPN 2
@@ -47,8 +43,6 @@ http://23.237.104.106:8080/USA_BIG_TEN_NETWORK/index.m3u8
 http://23.237.104.106:8080/USA_NHL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="USA Sports", YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
-
-# --- USA ENTERTAINMENT ---
 #EXTINF:-1 group-title="USA Entertainment", ABC
 http://23.237.104.106:8080/USA_ABC/index.m3u8
 #EXTINF:-1 group-title="USA Entertainment", CBS
@@ -75,8 +69,6 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1 group-title="USA Entertainment", Hallmark
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
-
-# --- USA KIDS ---
 #EXTINF:-1 group-title="USA Kids", Disney Channel
 http://23.237.104.106:8080/USA_DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="USA Kids", Disney Junior
@@ -91,8 +83,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://23.237.104.106:8080/USA_NICKJR/index.m3u8
 #EXTINF:-1 group-title="USA Kids", PBS Kids
 http://23.237.104.106:8080/USA_PBS_KIDS/index.m3u8
-
-# --- USA DOCUMENTARY & LIFESTYLE ---
 #EXTINF:-1 group-title="USA Documentary", Discovery
 http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="USA Documentary", Science Channel
