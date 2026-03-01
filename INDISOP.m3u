@@ -1,0 +1,55 @@
+#EXTM3U
+
+# --- BANGLADESHI & LOCAL CHANNELS ---
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_54.png" group-title="BD Entertainment", Nagorik TV
+http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_14.png" group-title="BD Entertainment", Zee Bangla HD
+http://203.18.159.115/ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_18.png" group-title="BD Entertainment", Star Jalsha HD
+http://203.18.159.115/STARJALSHAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BD Entertainment", Sony Aath
+http://103.99.249.139/sonyaath/index.m3u8
+#EXTINF:-1 group-title="BD Entertainment", Jalsha Movies
+http://198.195.239.50:8095/JalshaMovies/index.m3u8
+
+# --- SPORTS (CRICKET & MORE) ---
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_1.png" group-title="Sports", T Sports HD
+http://203.18.159.115/TSPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_2.png" group-title="Sports", Star Sports 1 HD
+http://203.18.159.115/STARSPORTS1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", Star Sports 1 (Alt)
+http://103.158.133.62:8080/starsports1/index.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_92.png" group-title="Sports", PTV Sports HD
+http://203.18.159.115/PTVSPORTSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Sports", Sony Sports Ten 3
+http://103.99.249.139/sonyten3/index.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_88.png" group-title="Sports", A Sports HD
+http://203.18.159.115/ASPORTSHD/tracks-v1a1/mono.m3u8
+
+# --- MOVIES & HINDI ENT ---
+#EXTINF:-1 group-title="Hindi Entertainment", Sony SAB
+http://103.99.249.139/sonysab/index.m3u8
+#EXTINF:-1 group-title="Movies", Sony MAX
+http://103.99.249.139/sonymax/index.m3u8
+#EXTINF:-1 group-title="Movies", Zee Cinema
+http://103.99.249.139/zeecinema/index.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment", Colors
+http://103.99.249.139/colors/index.m3u8
+#EXTINF:-1 group-title="Movies", And Prive
+http://202.70.146.135:8000/play/a05y/index.m3u8
+
+# --- DOCUMENTARY & KIDS ---
+#EXTINF:-1 group-title="Documentary", Discovery Bangla
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Documentary", Nat Geo HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Kids", Sony Yay
+http://103.99.249.139/sonyyay/index.m3u8
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_68.png" group-title="Kids", Duronto TV
+http://203.18.159.115/DURANTATV/tracks-v1a1/mono.m3u8
+
+# --- NEWS & RELIGIOUS ---
+#EXTINF:-1 tvg-logo="https://linkchur.top/amrbd/logos/ch_79.png" group-title="News", Somoy TV
+http://203.18.159.115/SOMOYTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Religious", Peace TV Bangla
+http://203.18.159.115/PEACETVBANGLA/tracks-v1a1/mono.m3u8
